@@ -1,2 +1,2 @@
-# Financial-Audit-
-Based on Python and Pandas, for webscrapping the online base of the current company
+# Financial-Audit
+Based on Python and Pandas, BeautifulSoup4 for webscrapping the online base of the current company
